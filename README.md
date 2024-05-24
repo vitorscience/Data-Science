@@ -19,7 +19,8 @@
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Analise Airbnb:** https://github.com/vitorscience/Data-Science/blob/main/Analise%20de%20dados%20Atenas%20Airbnb.ipynb
-* **Classificação Fetal** https://github.com/vitorscience/Classifica-o-Fetal
+* **Classificação Fetal:** https://github.com/vitorscience/Classifica-o-Fetal
+* **COVID-19:** https://github.com/vitorscience/Data-Science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb
 
 
 ---
